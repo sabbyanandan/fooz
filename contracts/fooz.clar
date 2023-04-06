@@ -6,7 +6,6 @@
 
 ;; traits
 ;;
-;;
 
 ;; token definitions
 ;; 
